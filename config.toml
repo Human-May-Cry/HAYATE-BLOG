@@ -1,6 +1,11 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "ハヤテ"
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://Human-May-Cry.github.io/"
+title: "ハヤテ"
+canonifyurls: true
 theme = "hugo-uno"
 
 [Params]
