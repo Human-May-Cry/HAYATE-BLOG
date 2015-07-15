@@ -1,11 +1,10 @@
-contentdir: "content"
-layoutdir: "layouts"
-publishdir: "public"
-indexes:
-  category: "categories"
-baseurl: "http://Human-May-Cry.github.io/"
-title: "ハヤテ"
-canonifyurls: true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+category = "categories"
+baseurl = "http://Human-May-Cry.github.io/"
+title =  "ハヤテ"
+canonifyurls = true
 theme = "hugo-uno"
 
 [Params]
