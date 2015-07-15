@@ -1,0 +1,8 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "ハヤテ"
+theme = "hugo-uno"
+
+[Params]
+cover = "/img/fender1.jpg"
+logo = "/img/my_picture.jpeg"
