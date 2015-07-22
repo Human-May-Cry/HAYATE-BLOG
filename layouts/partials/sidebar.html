@@ -14,6 +14,7 @@
                 <hr class="panel-cover__divider" />
                 <p class="panel-cover__description"> {{ if .Site.Params.description }} {{ .Site.Params.description }} {{ else }}Personal Blog{{end}} </p>
 				 <li><a href="{{.Site.BaseURL}}/categories/グランブルーファンタジー">グランブルーファンタジー</a></li>
+				 <li><a href="{{.Site.BaseURL}}/categories/guitar">Guitar</a></li>
       			 {{ range .Site.Menus.Topics }}
           		 <li><a href="{{ .URL }}">{{ .Name }}</a></li>
       			{{end}}
