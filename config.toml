@@ -7,6 +7,17 @@ title =  "ハヤテ"
 canonifyurls = true
 theme = "hugo-uno"
 
+[indexes]
+	category = "categories"
+	tag = "tags"
+
 [Params]
-cover = "/img/fender1.jpg"
-logo = "/img/my_picture.jpeg"
+	cover = "/img/fender1.jpg"
+	logo = "/img/my_picture.jpeg"
+	twitter = "Human_May_Cry"
+	email = "b09502048@hotmail.com"
+	AuthorName = "ハヤテ"
+	cv = "/pages/cv"
+#  [[menu.Topics]]
+#     name = "其他"
+#     url = "/other"

@@ -1,16 +1,17 @@
 +++
-Categories = ["Development", "GoLang"]
+Categories = ["グランブルーファンタジー"]
 Description = ""
-Tags = ["Development", "golang"]
+Tags = ["Games", "Mobile", "GranblueFantasy"]
 date = "2015-07-15T22:49:16+08:00"
-menu = "main"
+menu = "電玩"
 draft = false
 title = "グランブルーファンタジー"
 +++
 
 ![GranblueFantasy](https://lh3.ggpht.com/mX_WbbmhRDbHTDD8C1zN8oaoGnJWt_Q-By8fAinsDIW4RG4FnXJRxga9NulK447BrzU=h900)
 
-# <a href="http://granbluefantasy.jp/">グランブルーファンタジー </a> 
+
+### <a href="http://granbluefantasy.jp/">グランブルーファンタジー </a> 
 
 玩這遊戲也一年了
 
