@@ -4,7 +4,7 @@ Description = ""
 Tags = ["Games", "PS4", "Bloodborne","The Old Hunters"]
 date = "2016-01-13T11:22:05+08:00"
 menu = "main"
-title = "Bloodborne DLC - The Old Hunters」"
+title = "Bloodborne DLC - The Old Hunters"
 
 +++
 
