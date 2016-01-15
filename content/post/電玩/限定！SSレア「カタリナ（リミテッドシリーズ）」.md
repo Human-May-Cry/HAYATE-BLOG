@@ -1,6 +1,6 @@
 +++
 Categories = ["グランブルーファンタジー"]
-Description = ""
+Description = "限定！SSレア「カタリナ（リミテッドシリーズ）」"
 Tags = ["Games", "Mobile", "Granblue Fantasy","カタリナ"]
 date = "2015-07-30T10:52:05+08:00"
 menu = "main"
